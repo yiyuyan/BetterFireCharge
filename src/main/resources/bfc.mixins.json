@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.ksmcbrigade.bfc.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "bfc.refmap.json",
+  "mixins": [
+    "FireChargeItemMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

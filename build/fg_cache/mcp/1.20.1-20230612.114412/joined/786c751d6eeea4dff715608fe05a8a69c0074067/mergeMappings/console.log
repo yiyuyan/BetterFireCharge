@@ -1,0 +1,16 @@
+JVM:         E:\jdk-17.0.2\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "MERGE_MAPPING", "--left", "config/joined.tsrg", "--right", "D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\downloadClientMappings\client_mappings.txt", "--right-names", "right,left", "--classes", "--output", "D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\mergeMappings\output.jar"
+Classpath:   E:\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.2.0\installertools-1.2.0-fatjar.jar
+Working Dir: D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\mergeMappings
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: MERGE_MAPPING
+Left:    config\joined.tsrg
+         null
+Right:   D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\downloadClientMappings\client_mappings.txt
+         right,left
+Classes: true
+Fields:  false
+Methods: false
+Params:  false
+Output:  D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\mergeMappings\output.jar

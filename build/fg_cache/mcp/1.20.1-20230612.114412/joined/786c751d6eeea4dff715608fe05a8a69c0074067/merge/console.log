@@ -1,0 +1,6 @@
+JVM:         E:\jdk-17.0.2\bin\java.exe
+JVM Args:    
+Run Args:    "--client", "D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\stripClient\output.jar", "--server", "D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\stripServer\output.jar", "--ann", "1.20.1", "--output", "D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\merge\output.jar", "--inject", "false"
+Classpath:   E:\.gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\mergetool\1.1.7\mergetool-1.1.7-fatjar.jar
+Working Dir: D:\MinecraftForgeMod\BetterFireCharge\build\fg_cache\mcp\1.20.1-20230612.114412\joined\786c751d6eeea4dff715608fe05a8a69c0074067\merge
+Main Class:  net.minecraftforge.mergetool.ConsoleMerger

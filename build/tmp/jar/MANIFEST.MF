@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: bfc
+Specification-Vendor: KSmc_brigade
+Specification-Version: 1
+Implementation-Title: BetterFireCharge
+Implementation-Version: cn.ksmcbrigade
+Implementation-Vendor: KSmc_brigade
+Implementation-Timestamp: 2024-08-12T12:08:46+0800
+MixinConfigs: bfc.mixins.json
+
